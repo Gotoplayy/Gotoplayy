@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Gotoplayy/Привет,я Gotoplay_
+- 👀 I’m interested in create minecraft mods/Я интересуюсь созданием модов для майнкрафт
+- 🌱 I’m currently learning write on JS/Сейчас я учюсь писать на Джава
